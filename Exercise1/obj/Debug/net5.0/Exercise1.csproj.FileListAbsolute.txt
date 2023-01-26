@@ -1,0 +1,16 @@
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\refint\Exercise1.dll
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
+C:\Facultate\C#\Tema3(1)\Exercise1\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
